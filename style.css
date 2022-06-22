@@ -162,6 +162,8 @@ a:hover {
     font-size: 40px;
 }
 
+
+
 /*ANIMACAO DO MENU*/
 
 #toggle:checked + .checkbox .trace:nth-child(1) {
@@ -301,3 +303,5 @@ a:hover {
     color: black;
     font-family: sans-serif;
 }
+
+
